@@ -12,7 +12,7 @@ A combined csv of all dataset is used and basic data exploration and cleaning us
    - dtypes
 3. Identified and handled missing values.
 4. Performed filtering and column selection.
-5. Doplicate valus are checked.
+5. Duplicate values are checked.
 6. Created a derived column:
    - discount_amount = initial_price - final_price.
    It is mentioned to make a derived column of total_amount=price*quantity but as the quantity column is not present in the dataset so i have created a derived column named as discount_amount.
