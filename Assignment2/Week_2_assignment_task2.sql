@@ -291,6 +291,6 @@ WHERE product_id = 208;
 COMMIT;
 
 -- IF ay query fails rollback:
--- ROLLBACK;
+ ROLLBACK;
 
 
